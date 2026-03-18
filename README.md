@@ -3,26 +3,19 @@
 
 ## Langkah Menjalankan Stack
 
-1. Clone repository:
-
-```bash
-git clone <repository-url>
-cd wordpress-docker
-```
-
-2. Jalankan Docker:
+1. Jalankan Docker:
 
 ```bash
 docker compose up -d
 ```
 
-3. Cek container:
+2. Cek container:
 
 ```bash
 docker ps
 ```
 
-4. Akses WordPress:
+3. Akses WordPress:
 
 ```
 http://localhost:8000
@@ -34,11 +27,11 @@ http://localhost:8000
 
 ### 1. WordPress Installation Page
 
-![installation page](Screenshot/install%20page.png)
+![installation page](Screenshots/install%20page.png)
 
 ### 2. WordPress Dashboard
 
-![Dashboard Wordpress](Screenshot/dashboard.png)
+![Dashboard Wordpress](Screenshots/dashboard.png)
 
 ### 3. Docker Containers Running
 
@@ -48,7 +41,7 @@ Perintah:
 docker ps
 ```
 
-![docker ps](Screenshot/docker%20ps.png)
+![docker ps](Screenshots/docker%20ps.png)
 
 ### 4. Redis CLI Ping Test
 
@@ -65,7 +58,7 @@ Output:
 PONG
 ```
 
-![Redis CLI ping test](Screenshot/Redis%20CLI%20ping%20test.png)
+![Redis CLI ping test](Screenshots/Redis%20CLI%20ping%20test.png)
 
 ---
 
