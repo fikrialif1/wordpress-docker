@@ -38,7 +38,7 @@ http://localhost:8000
 
 ### 2. WordPress Dashboard
 
-![Dashboard Wordpress](screenshot/dashboard.png)
+![Dashboard Wordpress](Screenshot/dashboard.png)
 
 ### 3. Docker Containers Running
 
@@ -48,7 +48,7 @@ Perintah:
 docker ps
 ```
 
-![docker ps](screenshot/docker%20ps.png)
+![docker ps](Screenshot/docker%20ps.png)
 
 ### 4. Redis CLI Ping Test
 
@@ -65,7 +65,7 @@ Output:
 PONG
 ```
 
-![Redis CLI ping test](screenshot/Redis%20CLI%20ping%20test.png)
+![Redis CLI ping test](Screenshot/Redis%20CLI%20ping%20test.png)
 
 ---
 
