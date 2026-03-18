@@ -34,7 +34,7 @@ http://localhost:8000
 
 ### 1. WordPress Installation Page
 
-![installation page](screenshot/install%20page.png)
+![installation page](Screenshot/install%20page.png)
 
 ### 2. WordPress Dashboard
 
